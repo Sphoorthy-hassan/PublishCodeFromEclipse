@@ -5,6 +5,8 @@ public class TC1 {
 		// TODO Auto-generated method stub
 		
 		System.out.print("Hello World");
+		
+		System.out.print("Hello World 2");
 
 	}
 
